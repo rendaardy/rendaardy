@@ -2,7 +2,7 @@
 Hi, I'm Renda 👋
 
 ![age](https://img.shields.io/badge/age-25-blue)
-![focus](https://img.shields.io/badge/focus-backend%2C%20frontend-brightgreen)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-samarinda%2C%20indonesia-3c9)
 
 <br />
