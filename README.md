@@ -7,7 +7,7 @@ Hi, I'm Renda 👋
 
 <br />
 
-[![Renda's github stats](https://github-readme-stats.vercel.app/api?username=rendaardy&show_icons=true)](https://github.com/rendaardy)
+[![Renda's github stats](https://github-readme-stats.vercel.app/api?username=rendaardy&show_icons=true&theme=dark)](https://github.com/rendaardy)
 
 
 ⭐️ From [rendaardy](https://github.com/rendaardy)
