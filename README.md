@@ -7,6 +7,8 @@ Hi, I'm Renda 👋
 <br />
 
 [![Renda's github stats](https://github-readme-stats.vercel.app/api?username=rendaardy&show_icons=true&theme=dark)](https://github.com/rendaardy)
+[![Renda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rendaardy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ⭐️ From [rendaardy](https://github.com/rendaardy)
