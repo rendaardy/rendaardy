@@ -1,7 +1,7 @@
 ### Hello World
 Hi, I'm Renda 👋
 
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-samarinda%2C%20indonesia-3c9)
 
 <br />
