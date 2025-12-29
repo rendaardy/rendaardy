@@ -6,11 +6,11 @@ Hi, I'm Renda 👋
 
 <br />
 
-[![Renda's github stats](https://github-readme-stats.vercel.app/api?username=rendaardy&show_icons=true&theme=dark)](https://github.com/rendaardy)
+[![Renda's github stats](https://github-readme-stats-inky-seven-33.vercel.app/api?username=rendaardy&show_icons=true&theme=dark)](https://github.com/rendaardy)
 <br />
-[![Renda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rendaardy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Renda's wakatime stats](https://github-readme-stats-inky-seven-33.vercel.app/api/wakatime?username=rendaardy&show_icons=true&theme=dark)](https://github.com/rendaardy/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendaardy&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-seven-33.vercel.app/api/top-langs/?username=rendaardy&layout=compact&show_icons=true&theme=dark)](https://github.com/rendaardy/github-readme-stats)
 
 
 
